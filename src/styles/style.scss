@@ -1,0 +1,19 @@
+@import "~normalize.css";
+
+//abstract
+@import"./abstract/_constants";
+@import"./abstract/_mixin";
+@import"./abstract/_placeholders";
+
+
+
+@import"./base/_base";
+
+@import"./components/_headerAboutUs";
+@import"./components/_aboutUs";
+@import"./components/_ourTeamAboutUs";
+@import"./components/_rectangle4AboutUs";
+@import"./components/_footerAboutUs";
+
+
+
